@@ -1,0 +1,5 @@
+-git flow feature start <nombre> para crear una rama
+en feature
+
+-git flow feature finish <nombre> hace un merge con la rama principal
+
